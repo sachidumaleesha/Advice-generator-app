@@ -1,3 +1,6 @@
+![desktop-preview](https://github.com/sachidumaleesha/advice-generator-app/assets/45502921/2cc59119-e9ed-4893-aed0-44ada21ff8a3)
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -21,8 +24,6 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
 # Frontend Mentor - Advice generator app
-
-![Design preview for the Advice generator app coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
 
