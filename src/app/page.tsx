@@ -25,7 +25,7 @@ export default function Home() {
       {/* Card */}
       <div className="bg-[#323a49] max-w-[500px] w-full rounded-lg p-10 flex flex-col justify-center items-center relative mx-5 gap-5">
         <div className="text-[#52ffa8] font-mono uppercase tracking-widest font-semibold text-center">Advice #{index}</div>
-        <div className="text-center text-2xl font-semibold">{`"[$advice}"`}</div>
+        <div className="text-center text-2xl font-semibold">{`"{$advice}"`}</div>
         <div className="my-4">
           <Image src='/images/pattern-divider-desktop.svg' width={500} height={200} alt='pattern divider'/>
         </div>
