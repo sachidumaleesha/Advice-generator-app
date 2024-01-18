@@ -1,6 +1,6 @@
-![desktop-preview](https://github.com/sachidumaleesha/advice-generator-app/assets/45502921/2cc59119-e9ed-4893-aed0-44ada21ff8a3)
-
 # Frontend Mentor - Advice generator app
+
+![desktop-preview](https://github.com/sachidumaleesha/advice-generator-app/assets/45502921/2cc59119-e9ed-4893-aed0-44ada21ff8a3)
 
 ## Welcome! 👋
 
